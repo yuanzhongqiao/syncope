@@ -16,8 +16,7 @@ KIND, either express or implied.  See the License for the
 specific language governing permissions and limitations
 under the License.
 -->
-**Apache Syncope** is an Open Source system for managing digital identities in enterprise environments, 
-implemented in Java EE technology and released under Apache 2.0 license.
+Apache Syncope是一个用于管理企业环境中的数字身份的开源系统，采用 Java EE 技术实现并在 Apache 2.0 许可下发布。
 
 More information at https://syncope.apache.org
 
